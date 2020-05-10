@@ -2,7 +2,7 @@
 ## Usage
 There are 2 parts to our assignment.
 ## Part 1: MRCNN
-### 1. Open video_to_bvh.ipynb in Google Colab
+### 1. Open MRCNN_CA1.ipynb in Google Colab
 1. Go to https://colab.research.google.com
 2. **```File```** > **```Upload notebook...```** > **```GitHub```** > **```Paste this link:``` https://github.com/liwei123/RTAVSCAONE/blob/master/MRCNN_CA1.ipynb**
 3. Ensure that **```Runtime```** > **```Change runtime type```** is ```Python 3``` with ```GPU```
@@ -13,6 +13,7 @@ Thirds step is to run the second cell and then restart your runtime. Check that 
 ### 4. Proceed on and run the code 
 
 ## Part 2: Deceptron2
+### 1. Open detectron2_v2.ipynb in Google Colab
 1. Go to https://colab.research.google.com
 2. **```File```** > **```Upload notebook...```** > **```GitHub```** > **```Paste this link:``` https://github.com/liwei123/RTAVSCAONE/blob/master/detectron2_v2.ipynb**
 3. Ensure that **```Runtime```** > **```Change runtime type```** is ```Python 3``` with ```GPU```
