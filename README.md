@@ -9,7 +9,7 @@ There are 2 parts to our assignment.
 ### 2. Initial imports, install, initializations
 Second step is to clone required files and dependencies. Select the first code cell and push ```shift+enter```. You'll see running lines of executing code. Wait until it's done (1-2 minutes).
 ### 3. Run on keras 2.2.5 and tensorflow 1.x
-Thirds step is to run the second cell and then restart your runtime. Check that you are running tensorflow version 1.15.2 in cell four and keras version 2.2.5
+Third step is to run the second cell and then restart your runtime. Check that you are running tensorflow version 1.15.2 in cell four and that your keras version is 2.2.5 in cell 5.
 ### 4. Proceed on and run the code 
 
 ## Part 2: Deceptron2
